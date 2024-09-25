@@ -1,6 +1,6 @@
 # Hello, I'm  Facundo Ezequiel Solis 👨🏻‍💻 🇦🇷 🇪🇸
 ### Full-Stack Developer 🚀
-[Facundo Solis (banner).png](https://github.com/FacundoSolis/facundosolis/blob/193d57be621b946eab2fc6f64bf3ee4198c535fd/Facundo%20Solis%20(banner).png)
+![Facundo Solis (banner).png](https://github.com/FacundoSolis/facundosolis/blob/193d57be621b946eab2fc6f64bf3ee4198c535fd/Facundo%20Solis%20(banner).png)
 
 ## Technologies Used 🛠️
 
